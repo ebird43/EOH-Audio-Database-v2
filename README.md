@@ -6,7 +6,7 @@ A searchable database of over 880 audio recitations from AdiDa's published works
   * Essay title
   * Book name
   * Reciter name
-- Support for multiple reciters per essay
+- Support for multiple reciters per essay, multiple essays per reciter
 - Detailed metadata including:
   * Essay title
   * Book title
